@@ -15,7 +15,7 @@ See [installation instructions for detectron2](https://detectron2.readthedocs.io
 
 ## Getting Started
 
-See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html),
+See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html), reference our 
 and our [Colab Notebook](https://colab.research.google.com/drive/1Czv3KcuMujaOg27u2mPzB-Pm4_wfrxn7?usp=sharing)
 to learn about basic usage.
 
@@ -24,11 +24,11 @@ And see [projects/](projects/) for some projects that are built on top of detect
 
 ## Citing AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
 ```BibTeX
-@misc{wu2019detectron2,
-  author =       {Hilario Gonzalez, Josh Bardwick, Noah Hathout, Trieu tran},
+@misc{gonzalez2024areyouttrieulypayingattentionorjustjoshingnoahmnotbuthilarioisNET,
+  author =       {Hilario Gonzalez, Josh Bardwick, Noah Hathout, Trieu Tran},
   title =        {AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET},
   howpublished = {\url{https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET}},
-  year =         {2023}
+  year =         {2024}
 }
 ```
 
