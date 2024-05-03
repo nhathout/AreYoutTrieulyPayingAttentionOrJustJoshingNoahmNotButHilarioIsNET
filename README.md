@@ -22,6 +22,16 @@ to learn about basic usage.
 Learn more about Detectron2 [documentation](https://detectron2.readthedocs.org).
 And see [projects/](projects/) for some projects that are built on top of detectron2.
 
+## Citing AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
+```BibTeX
+@misc{wu2019detectron2,
+  author =       {Hilario Gonzalez, Josh Bardwick, Noah Hathout, Trieu tran},
+  title =        {AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET},
+  howpublished = {\url{https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET}},
+  year =         {2023}
+}
+```
+
 ## Citing Detectron2
 
 ```BibTeX
