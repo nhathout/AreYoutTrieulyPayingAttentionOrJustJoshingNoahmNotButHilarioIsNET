@@ -43,3 +43,20 @@ And see [projects/](projects/) for some projects that are built on top of detect
   year =         {2019}
 }
 ```
+
+## Citing Detectron2
+
+```BibTeX
+@misc{face-detection-40nq0_dataset,
+  title =       { Face detection Dataset },
+  type =        { Open Source Dataset },
+  author =      { FDDB },
+  howpublished = { \url{ https://universe.roboflow.com/fddb/face-detection-40nq0 } },
+  url =         { https://universe.roboflow.com/fddb/face-detection-40nq0 },
+  journal =     { Roboflow Universe },
+  publisher =   { Roboflow },
+  year =        { 2022 },
+  month =       { feb },
+  note =        { visited on 2024-05-02 },
+}
+```
