@@ -2,15 +2,15 @@
 
 V1: 
 - lr = 0.001
-- bs = 4
+- batch_size = 4
 - iterations = 1500
 
 V2: 
 - lr = 0.002
-- bs = 8
+- batch_size = 8
 - iterations = 3000
 
 V3: 
 - lr = 0.001
-- bs = 4
+- batch_size = 4
 - iterations = 3000
