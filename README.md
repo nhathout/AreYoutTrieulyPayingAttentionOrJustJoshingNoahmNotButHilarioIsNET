@@ -44,7 +44,7 @@ And see [projects/](projects/) for some projects that are built on top of detect
 }
 ```
 
-## Citing Detectron2
+## Citing Face Detection Dataset
 
 ```BibTeX
 @misc{face-detection-40nq0_dataset,
