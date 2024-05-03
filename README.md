@@ -15,7 +15,7 @@ See [installation instructions for detectron2](https://detectron2.readthedocs.io
 
 ## Getting Started
 
-See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html), reference our 
+See [Getting Started with Detectron2](https://detectron2.readthedocs.io/tutorials/getting_started.html),
 and our [Colab Notebook](https://colab.research.google.com/drive/1Czv3KcuMujaOg27u2mPzB-Pm4_wfrxn7?usp=sharing)
 to learn about basic usage.
 
