@@ -1,4 +1,4 @@
-# AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
+# AreYouTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
 ![WeFriends](https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET/blob/main/misc/0CD7CA66-DD47-4D44-8809-80C68F0ADA7E.jpeg)
 ## What's New
 * A fully retrained version of Detectron2 on the FDDB Dataset with additional modifications and added compatibility with more recent versions of Python. 
@@ -22,11 +22,11 @@ to learn about basic usage.
 Learn more about Detectron2 [documentation](https://detectron2.readthedocs.org).
 And see [projects/](projects/) for some projects that are built on top of detectron2.
 
-## Citing AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
+## Citing AreYouTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
 ```BibTeX
-@misc{gonzalez2024areyouttrieulypayingattentionorjustjoshingnoahmnotbuthilarioisNET,
+@misc{gonzalez2024areyoutrieulypayingattentionorjustjoshingnoahmnotbuthilarioisNET,
   author =       {Hilario Gonzalez, Josh Bardwick, Noah Hathout, Trieu Tran},
-  title =        {AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET},
+  title =        {AreYouTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET},
   howpublished = {\url{https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET}},
   year =         {2024}
 }
