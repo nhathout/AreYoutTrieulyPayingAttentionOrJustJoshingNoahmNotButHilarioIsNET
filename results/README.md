@@ -8,8 +8,8 @@ These files contain the output of our trained model on the validation set for al
 These files are to be used in correspondance with coco_instances_results.json and contain the corresponding image information for coco_instances_results. To correctly muse these json files in unison with coco_instances_results.json, refer to our data pre-processing section [here](https://colab.research.google.com/drive/1Czv3KcuMujaOg27u2mPzB-Pm4_wfrxn7?usp=sharing) Note: Again, any version may be used as the data processing was not altered across versions.
 
 ## metrics.json
-Contains the accuracy metrics for each version trained, includes a series of AP scores, | AP | AP50 | AP75 | AP1 | APm | APs |.
+Contains the accuracy metrics for each version trained, includes a series of AP scores: 
+| AP | AP50 | AP75 | AP1 | APm | APs |.
+
 Also contains all of the loss values across these values. 
-
-
 - fast_rcnn: cls_accuracy, false_negatives, fg_cls_accuracy 
