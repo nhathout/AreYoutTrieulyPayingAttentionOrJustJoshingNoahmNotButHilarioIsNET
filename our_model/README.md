@@ -2,7 +2,7 @@
 Holds all .pth and other files to run and instantiate our pre-trained face detector model.
 
 
-#Version History/Hyperparameter updates
+# Version History/Hyperparameter updates
 ## Values chosen and reasoning are explained in our [report](https://docs.google.com/document/d/1jopVcW5oSQAM1AiB77bWeUELJqZ4IWX0DPezHU_gHWk/edit?tab=t.0#heading=h.w6zcozas85jc)
 V1: 
 - lr = 0.001
