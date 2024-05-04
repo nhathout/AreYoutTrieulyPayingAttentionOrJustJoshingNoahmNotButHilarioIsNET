@@ -12,4 +12,4 @@ Contains the accuracy metrics for each version trained, includes a series of AP 
 Also contains all of the loss values across these values. 
 
 
-fast_rcnn: cls_accuracy, false_negatives, fg_cls_accuracy 
+- fast_rcnn: cls_accuracy, false_negatives, fg_cls_accuracy 
