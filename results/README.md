@@ -14,7 +14,7 @@ Contains the accuracy metrics for each version trained, and contains all of the 
 - fast_rcnn: cls_accuracy, false_negatives, fg_cls_accuracy
 - loss: loss_box_reg, loss_cls, loss_mask
 - loss_rpn: loss_rpn_cls, loss_rpn_loc
-- lr
+- lr (learning rate)
 - mask_rcnn: accuracy, false_negative, false_positive
 - rank_data_time
 - roi_head: num_bg_samples, num_fg_samples, num_neg_anchors, num_pos_anchors
