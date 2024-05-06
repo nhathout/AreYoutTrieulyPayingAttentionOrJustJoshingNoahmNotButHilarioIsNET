@@ -21,4 +21,4 @@ V3:
 - batch_size = 4
 - iterations = 3000
 
-See [results](https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET/tree/main/results) for the .json files containing all of our metrics, or our [report](https://docs.google.com/document/d/1jopVcW5oSQAM1AiB77bWeUELJqZ4IWX0DPezHU_gHWk/edit?tab=t.0#heading=h.w6zcozas85jc) to see a condensed version of our results.
+See /[results](https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET/tree/main/results) for the .json files containing all of our metrics, or our [report](https://docs.google.com/document/d/1jopVcW5oSQAM1AiB77bWeUELJqZ4IWX0DPezHU_gHWk/edit?tab=t.0#heading=h.w6zcozas85jc) to see a condensed version of our results.
