@@ -10,7 +10,7 @@ V1:
 - lr = 0.001
 - batch_size = 4
 - iterations = 1500
-
+Download the file [V1](https://drive.google.com/file/d/1K7L6IEiCZBTY2x6mv5I_-3fK0zU0pDxU/view?usp=drive_link)(.pth)
 V2: 
 - lr = 0.002
 - batch_size = 8
