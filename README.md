@@ -1,5 +1,5 @@
 # AreYouTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET
-![WeFriends](https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET/blob/main/misc/0CD7CA66-DD47-4D44-8809-80C68F0ADA7E.jpeg)
+![WeFriends](https://github.com/nhathout/AreYoutTrieulyPayingAttentionOrJustJoshingNoahmNotButHilarioIsNET/blob/main/misc/BGHT.jpeg)
 ## What's New
 * A fully retrained version of Detectron2 on the FDDB Dataset with additional modifications and added compatibility with more recent versions of Python. 
 * Retained the object detection aspect of Detectron2 and adapted it to just facial detection.
